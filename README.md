@@ -1,2 +1,2 @@
-# dragondiscordbot
-Discord bot for/by DragonScript Coding Club
+# discordbot-skeleton
+Basic Python Discord/Flask bot
